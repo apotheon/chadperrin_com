@@ -1,0 +1,6 @@
+body {
+  background: #171717;
+  color: #987;
+  font-size: 1em;
+  font-size: calc(10px + 1vw + 1vh);
+}
