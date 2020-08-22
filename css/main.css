@@ -5,6 +5,16 @@ body {
   font-size: calc(10px + 1vw + 1vh);
 }
 
+a {
+  text-decoration: none;
+  text-decoration: none;
+  color: #7595cc;
+}
+
+a:hover {
+  color: #75b095;
+}
+
 div#header {
   border: 0;
   border-bottom: thin solid #987;
