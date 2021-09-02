@@ -55,7 +55,7 @@ This license seems to be one of the more widely applicable licenses out there.  
 
 ---
 
-### COIL v0.6:
+### COIL v1.0:
 
 > Redistributions, modified or unmodified, in whole or in part, must retain
 > applicable notices of copyright or other legal privilege, these conditions,
