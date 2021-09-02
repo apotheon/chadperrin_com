@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Chad Perrin</title>
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+
+  <body>
+    <section class="section">
+      <div class="menu header">
+        {% include 'nav.html' %}
+      </div>
+
+      <div class="container column">
+        {% include 'column.html' %}
+      </div>
+
+      <div class="container main">
+        {% block content %} {% endblock %}
+      </div>
+
+      <div class="legal">
+        All original content &copy; Chad Perrin, released under the terms of the <a href="/license">DPL or COIL</a> as desired by the recipient.
+      </div>
+
+      <div class="menu footer">
+        {% include 'nav.html' %}
+      </div>
+    </section>
+  </body>
+</html>
