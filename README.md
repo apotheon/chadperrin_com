@@ -11,6 +11,17 @@ browser by using this:
 
     $ zola serve; zola build    # load localhost:1111
 
+This is the process for deploying:
+
+    $ zola build
+    $ cd public
+    $ git clone git@github.com:apotheon/chadperrindeploy.git
+    $ mv chadperrindeploy/.git ./
+    $ rm -rf chadperrindeploy/
+    $ git add *
+    $ git commit -m 'compose reasonable commit message'
+    $ git push
+
 [Zola documentation][zoladoc]
 
 [zoladoc]: https://www.getzola.org/documentation/getting-started/directory-structure/
