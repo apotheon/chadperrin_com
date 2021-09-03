@@ -421,8 +421,8 @@ I quickly realized that the stock handlebars are far from ideal.  I could keep t
 
 This is the initial state of the bike (with stock handlebars adjusted to let me see past my shoulders):
 
-<div><img src="/img/embeds/xj650_side_left_01_embed.jpg" style="border: thin solid black" /></div>
-<div><img src="/img/embeds/xj650_side_right_01_embed.jpg" style="border: thin solid black" /></div>
+<div><img src="/img/xj650_side_left_01_embed.jpg" style="border: thin solid black" /></div>
+<div><img src="/img/xj650_side_right_01_embed.jpg" style="border: thin solid black" /></div>
 
 I picked up a set of dirt bike bars from a motorcycle salvage yard for cheap, and they worked out great other than the fact one side turned out to be slightly bent, and the ends are about half an inch too short (the grips overhang the ends of the bars by about half an inch, which doesn't really interfere with my ability to ride the bike but isn't really optimal).  The bend was visually obvious when mounted on the bike, but not so much before that.  The salvage yard had a great return policy: I could just return them for full value in purchase credit.  Unfortunately, forty-five minutes of searching did not yield something I wanted, so I'm stuck with slightly bent handlebars until I can find a set I like somewhere that'll fit the bike and isn't bent.  I guess I could take a hammer to these to see if I can straighten them out, but that won't make them longer.
 
@@ -436,7 +436,7 @@ I intended to make some of the major cosmetic changes *after* a bunch of functio
 
 This is how the bike looked with the new seat and tank added, still with some gnarly old handlebars and no other cosmetic work, and with the side covers missing so you can see the white battery (I put them on again later):
 
-<div><a href="https://gateway.pinata.cloud/ipfs/QmZiGYoJ9b6MTWjA7dvSsUKhm2kNdL631fkGwFztFdAA1z/xj650_outtagas.jpg"><img src="/img/embeds/xj650_outtagas_embed.png" style="border: thin solid black" /></a></div>
+<div><a href="https://gateway.pinata.cloud/ipfs/QmZiGYoJ9b6MTWjA7dvSsUKhm2kNdL631fkGwFztFdAA1z/xj650_outtagas.jpg"><img src="/img/xj650_outtagas_embed.png" style="border: thin solid black" /></a></div>
 
 I had just put the new tank and seat on it the night before, and decided to ride it around a bit and check for fuel leaks periodically.  I poured fuel into it from a gas can (which I got from the other tank, of course), and had no real idea how much fuel I put in the thing, but figured it was surely enough for me to meet up with a local biker group (the 40+ Motorcycle Club in Fort Collins).  We met up, went off to have breakfast, and on the way home I ran out of fuel, probably about a mile from my garage.  That's how it ended up at the curb near an intersection, while I tried to get in touch with the missus to bring me a gas can.
 
