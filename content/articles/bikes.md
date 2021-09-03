@@ -166,7 +166,7 @@ start removing that crap.  I want to pare it down to something approaching
 tools I needed for that.  The following photos show the progression of my
 plastic stripping project.
 
-<a href="/img/buell_12.jpg"><img src="/img/embeds/buell_12_embed.png" style="border: thin solid black" /></a>
+<a href="/img/buell_12.jpg"><img src="/img/buell_12_embed.png" style="border: thin solid black" /></a>
 
 This is how it started, with all the plastic on it (except the missing timer
 cover).  All the stock plastic is present, though the previous owner removed
@@ -174,23 +174,23 @@ the Buell decals.  He had replaced them with tiny plastic Harley badges, but I
 took those back off.  Eventually, I decided I just didn't even want the plastic
 on there.
 
-<img src="/img/embeds/buell_13_embed.png" style="border: thin solid black" />
+<img src="/img/buell_13_embed.png" style="border: thin solid black" />
 
 Here, I have removed the seat and the yellow plastic from the fuel tank.  There
 is a wrench set sitting where the seat goes.  Removing the seat was a temporary
 measure necessary to detach the yellow plastic over the tank.
 
-<img src="/img/embeds/buell_14_embed.png" style="border: thin solid black" />
+<img src="/img/buell_14_embed.png" style="border: thin solid black" />
 
 With the seat reinstalled, you should be able to see how it looks less clownish
 without the big-ass yellow cover over the tank.
 
-<img src="/img/embeds/buell_15_embed.png" style="border: thin solid black" />
+<img src="/img/buell_15_embed.png" style="border: thin solid black" />
 
 At this point, I have removed both the yellow tail plastic and the tiny yellow
 flyscreen (sport fairing).
 
-<img src="/img/embeds/buell_16_embed.png" style="border: thin solid black" />
+<img src="/img/buell_16_embed.png" style="border: thin solid black" />
 
 The saddlebags were removed here so you can see the absence of the yellow tail.
 
@@ -217,25 +217,25 @@ These two image pairs show roughly equivalent views of the "before" and "after"
 air cleaner assemblies:
 
 <div>
-  <img src="/img/embeds/buell_16_embed_02.jpg" style="margin: 0; border: thin solid black; padding: 0;" />
-  <img src="/img/details/buell_16_detail_02.jpg" style="margin: 0; border: thin solid black; padding: 0;" />
+  <img src="/img/buell_16_embed_02.jpg" style="margin: 0; border: thin solid black; padding: 0;" />
+  <img src="/img/buell_16_detail_02.jpg" style="margin: 0; border: thin solid black; padding: 0;" />
 </div>
 
 <div>
-  <img src="/img/embeds/buell_20_embed_02.jpg" style="margin: 0; border: 1px solid black; padding: 0;" />
-  <img src="/img/details/buell_20_detail_02.jpg" style="margin: 0; border: 1px solid black; padding: 0;" />
+  <img src="/img/buell_20_embed_02.jpg" style="margin: 0; border: 1px solid black; padding: 0;" />
+  <img src="/img/buell_20_detail_02.jpg" style="margin: 0; border: 1px solid black; padding: 0;" />
 </div>
 
 As you can see, there's considerably less to see of the air cleaner assembly in
 the after picture.  I think it looks better, too.
 
-<img src="/img/embeds/buell_20_embed.jpg" style="border: thin solid black" />
+<img src="/img/buell_20_embed.jpg" style="border: thin solid black" />
 
 This is more complete version of the image from which the "after" detail was
 taken.
 
-<img src="/img/embeds/buell_23_embed_02.jpg" style="border: thin solid black" />
-<img src="/img/details/buell_23_detail_02.jpg" style="border: thin solid black" />
+<img src="/img/buell_23_embed_02.jpg" style="border: thin solid black" />
+<img src="/img/buell_23_detail_02.jpg" style="border: thin solid black" />
 
 This is another angle of the bike with the new air cleaner assembly, and a
 detail image of the assembly from that image.
@@ -249,8 +249,8 @@ decking it.  We didn't think to take "before" photos, but for the "after"
 photos he set it side-by-side with another (un-adjusted) Blast head for
 comparison:
 
-<div><img src="/img/embeds/gristle_head_01_embed.jpg" style="border: thin solid black" /></div>
-<div><img src="/img/embeds/gristle_head_02_embed.jpg" style="border: thin solid black" /></div>
+<div><img src="/img/gristle_head_01_embed.jpg" style="border: thin solid black" /></div>
+<div><img src="/img/gristle_head_02_embed.jpg" style="border: thin solid black" /></div>
 
 Gristle needed new shocks, had an oil leak from the cylinder head gasket, and
 still had a yellow front fender.  Rather than screw around with doing the work
@@ -264,11 +264,11 @@ that just had to be changed.
 
 This is the state of the bike after that work:
 
-<div><img src="/img/embeds/gristle_34_embed.jpg" style="border: thin solid black" /></div>
+<div><img src="/img/gristle_34_embed.jpg" style="border: thin solid black" /></div>
 
 This is a close-up of the copyfree sticker from that image:
 
-<div><img src="/img/details/gristle_34_detail_sticker.jpg" style="border: thin solid black" /></div>
+<div><img src="/img/gristle_34_detail_sticker.jpg" style="border: thin solid black" /></div>
 
 A few years after that work on the bike, Phelan had moved on to a different job
 in another town farther away, and Dan had moved his entire operation to
@@ -284,25 +284,23 @@ much larger (and better looking) version of the same photo (also on IPFS):
 
 <a href="#roadend" name="roadend" id="roadend" style="font-size: 0.8em">Road End: direct link</a>
 
-<div style="display: inline-block; border: thin solid grey; margin-bottom: 1em; padding: 0em;">
-    <a href="https://gateway.pinata.cloud/ipfs/QmRAV8YRrbVke1n9v1wRbR2wtA9EmNyWgxuGX3Eso4NRCw/gristle_newseat_endoftheroad_fullsize.jpg">
-        <img src="https://gateway.pinata.cloud/ipfs/QmRAV8YRrbVke1n9v1wRbR2wtA9EmNyWgxuGX3Eso4NRCw/gristle_newseat_endoftheroad.jpg" style="border: thin solid black" />
-    </a>
+<a style="margin: 0em; padding: 0em;" href="https://gateway.pinata.cloud/ipfs/QmRAV8YRrbVke1n9v1wRbR2wtA9EmNyWgxuGX3Eso4NRCw/gristle_newseat_endoftheroad_fullsize.jpg"><img src="https://gateway.pinata.cloud/ipfs/QmRAV8YRrbVke1n9v1wRbR2wtA9EmNyWgxuGX3Eso4NRCw/gristle_newseat_endoftheroad.jpg" style="margin: 0em; padding: 0em;" /></a>
 
-    <p>
-        That was my modular Schuberth C3 helmet on the bike, visor up, tinted
-        inside lens down.
-    </p>
+<div style="margin: 0em; margin-bottom: 1em; border: thin solid grey; padding: 1em;">
 
-    <p style="font-size: 0.8em">(Click the image to see a larger version.)</p>
+  That was my modular Schuberth C3 helmet on the bike, visor up, tinted inside lens down.
+
+  <p style="font-size: 0.8em">(Click the image to see a larger version.)</p>
 </div>
 
 <a href="#redwall" name="redwall" id="redwall" style="font-size: 0.8em">Red Wall: direct link</a>
 
-<div style="display: inline-block; border: thin solid grey; padding: 0em;">
-    <img src="https://gateway.pinata.cloud/ipfs/QmRAV8YRrbVke1n9v1wRbR2wtA9EmNyWgxuGX3Eso4NRCw/gristle_newseat_redwall.jpg" style="border: thin solid black" />
+<a style="margin: 0em; padding: 0em;" href="https://gateway.pinata.cloud/ipfs/QmRAV8YRrbVke1n9v1wRbR2wtA9EmNyWgxuGX3Eso4NRCw/gristle_newseat_redwall.jpg"><img src="https://gateway.pinata.cloud/ipfs/QmRAV8YRrbVke1n9v1wRbR2wtA9EmNyWgxuGX3Eso4NRCw/gristle_newseat_redwall.jpg" style="margin: 0em; padding: 0em;" /></a>
 
-    <p>This is a photo of Gristle by the side of a structure (which looks like some kind of permanently closed snack stand) in a park.</p>
+<div style="margin: 0em; margin-bottom: 1em; border: thin solid grey; padding: 1em;">
+
+  This is a photo of Gristle by the side of a structure (which looked like some kind of permanently closed snack stand) in a park.
+
 </div>
 
 Those images were from was August.  Afterward, still in 2020, I replaced the
@@ -335,47 +333,23 @@ photos with all those modifications in place.
 <a href="#worldend" name="worldend" id="worldend" style="font-size: 0.8em">World End: direct link</a>
 
 <div style="display: table; clear: both; margin-bottom: 1em; border: thin solid grey;">
-    <a href="https://gateway.pinata.cloud/ipfs/QmVRxjZmGiDXVXx7dvpjdhGwPddRFnCWzJzXstTgogvG1Z" style="float: left; display: inline-block; margin: 0em; margin-right: 1em; border-right: thick solid black; padding: 0em;">
-        <img src="https://gateway.pinata.cloud/ipfs/Qma87ugtuAXXooKJtECr1Jk4Xrz9K1GFQMj98VR9XsPPnG" style="float: left;" />
-    </a>
+  <a href="https://gateway.pinata.cloud/ipfs/QmVRxjZmGiDXVXx7dvpjdhGwPddRFnCWzJzXstTgogvG1Z" style="float: left; display: inline-block; margin: 0em; margin-right: 1em; border-right: thick solid black; padding: 0em;">
+    <img src="https://gateway.pinata.cloud/ipfs/Qma87ugtuAXXooKJtECr1Jk4Xrz9K1GFQMj98VR9XsPPnG" style="float: left;" />
+  </a>
 
-    <div style="max-width: 50em; margin: 0em; border: none; text-align: justify;">
-        <p style="margin: 0em; padding: 1em;">
-            First up, let's have a look at Gristle posing in front of the
-            apparent end of the world.  That's smoke from wildfires in the
-            background, not a stormcloud.
-        </p>
-
-        <p style="margin: 0em; padding: 1em; font-size: 0.8em;">
-            (Click the image to see a larger version.)
-        </p>
-    </div>
+  <div style="max-width: 50em; margin: 0em; border: none;"><p style="margin: 0em; padding: 1em;">First up, let's have a look at Gristle posing in front of the apparent end of the world.  That's smoke from wildfires in the background, not a stormcloud.</p><p style="margin: 0em; padding: 1em; font-size: 0.8em;">(Click the image to see a larger version.)</p></div>
 </div>
 
 <a href="#civilianjeep" name="civilianjeep" id="civilianjeep" style="font-size: 0.8em">Civilian Jeep: direct link</a>
 
 <div style="display: table; clear: both; border: thin solid grey;">
-    <div>
-        <a href="https://gateway.pinata.cloud/ipfs/QmbFXYWft2t37EYwqcmyK6gS9XpSXdffYTK77t45sfBS6K"style="float: left; display: inline-block; margin: 0em; margin-right: 1em; border-right: thick solid black; padding: 0em;">
-            <img src="https://gateway.pinata.cloud/ipfs/QmYjEKh5JvDuJZ78X2vQUFErRwMNBgvrT6NdRVvY6YoHAj" style="float: left" />
-        </a>
-    </div>
+  <div>
+    <a href="https://gateway.pinata.cloud/ipfs/QmbFXYWft2t37EYwqcmyK6gS9XpSXdffYTK77t45sfBS6K"style="float: left; display: inline-block; margin: 0em; margin-right: 1em; border-right: thick solid black; padding: 0em;">
+      <img src="https://gateway.pinata.cloud/ipfs/QmYjEKh5JvDuJZ78X2vQUFErRwMNBgvrT6NdRVvY6YoHAj" style="float: left" />
+    </a>
+  </div>
 
-    <div style="max-width: 50em; margin: 0em; border: none; text-align: justify;">
-        <p style="margin: 0em; padding: 1em;">
-            Next, I met a man named Bruce who graciously gave his go-ahead to
-            photograph Gristle with his 1949 CJ2A, the last production year of
-            the first Civilian Jeep (thus "CJ") model, nearly identical to the
-            WWII military Jeeps of the era. I took a couple of photos, but
-            figure the iconic front end of the jeep would be the best to share.
-            This way, you also see the front of Gristle for a view of the three
-            most recent changes to the bike (signals, handlebars, tires).
-        </p>
-
-        <p style="margin: 0em; padding: 1em; font-size: 0.8em;">
-            (Click the image to see a larger version.)
-        </p>
-    </div>
+  <div style="max-width: 50em; margin: 0em; border: none;"><p style="margin: 0em; padding: 1em;">Next, I met a man named Bruce who graciously gave his go-ahead to photograph Gristle with his 1949 CJ2A, the last production year of the first Civilian Jeep (thus "CJ") model, nearly identical to the WWII military Jeeps of the era. I took a couple of photos, but figure the iconic front end of the jeep would be the best to share.  This way, you also see the front of Gristle for a view of the three most recent changes to the bike (signals, handlebars, tires).</p><p style="margin: 0em; padding: 1em; font-size: 0.8em;">(Click the image to see a larger version.)</p></div>
 </div>
 
 The rear tire, by the way, is the same Shinko dual-sport tire as the front.
@@ -421,12 +395,12 @@ something right.
 
 <a href="#fenrirendroad" name="fenrirendroad" id="fenrirendroad" style="font-size: 0.8em">Fenrir Mirrors, End Of The Road: direct link</a>
 
-<div style="display: inline-block; border: thin solid grey; padding: 0em;">
-    <a href="https://gateway.pinata.cloud/ipfs/QmYsvqgs7Zjpn2xkKDvuBFoNSqffwf7iB3XkAmhknX9g5i/gristle_fenrir_2020_05_04_r_endroad.jpg">
-        <img src="/img/embeds/gristle_fenrir_2020_05_04_r_endroad_embed.jpg" style="border: thin solid black" />
-    </a>
+<a href="https://gateway.pinata.cloud/ipfs/QmYsvqgs7Zjpn2xkKDvuBFoNSqffwf7iB3XkAmhknX9g5i/gristle_fenrir_2020_05_04_r_endroad.jpg"><img src="/img/gristle_fenrir_2020_05_04_r_endroad_embed.jpg" style="border: thin solid black" /></a>
 
-    <p>That's a fuel bottle and a toolkit tied down between the back of the seat and the tail light.</p>
+<div style="margin: 0em; margin-bottom: 1em; border: thin solid grey; padding: 1em;">
+
+  That's a fuel bottle and a toolkit tied down between the back of the seat and the tail light.
+
 </div>
 
 I still haven't gotten around to replacing the headlight or mounting ammo cans
