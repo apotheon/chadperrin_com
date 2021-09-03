@@ -84,7 +84,7 @@ h1.title {
   letter-spacing: 0.2em;
 }
 
-h4 {
+h3 {
   text-decoration: underline;
 }
 
@@ -123,8 +123,25 @@ pre, blockquote {
   font-family: monospace;
 }
 
+div.caption blockquote {
+  border: thin solid grey;
+  border-left-width: thick;
+  color: grey;
+}
+
 div.legal {
   clear: both;
   margin: 2em;
   font-size: 0.6em;
+}
+
+a.direct {
+  padding: none;
+  text-decoration: none;
+  color: #8ae;
+  font-size: 0.6em;
+}
+
+a.direct:hover {
+  text-decoration: underline;
 }
